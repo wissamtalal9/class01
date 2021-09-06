@@ -4,12 +4,11 @@ class Header extends Component {
     render() {
         return (
             <>
-            <h1 class="h1">This is Lab: Class 01</h1>
+            <h1 class="h1">This is Lab: Class 01,02</h1>
             <ul>
             </ul>
             </>
         )
     }
 }
-
 export default Header
