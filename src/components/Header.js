@@ -5,16 +5,16 @@ class Header extends Component {
         return (
             <>
            <header>
-      <a href="#" class="logo">Doing Labs</a>
+      <a href="#home" class="logo">Doing Labs</a>
       <div id="menu-bar"></div>
       <nav class="navbar">
         <a href="#home">home</a>
-        <a href="#features">features</a>
-        <a href="#about">about</a>
-        <a href="#usage">usage</a>
-        <a href="#review">review</a>
-        <a href="#pricing">pricing</a>
-        <a href="#contact">contact</a>
+        <a href="#Lab01">Lab01</a>
+        <a href="#Lab01">Lab02</a>
+        <a href="#Lab01">Lab03</a>
+        <a href="#Lab01">Lab04</a>
+        <a href="#Lab01">Lab05</a>
+        <a href="#Lab01">Lab05</a>
       </nav>
     </header>
             </>
